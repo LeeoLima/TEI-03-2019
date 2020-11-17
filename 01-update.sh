@@ -1,5 +1,4 @@
 #!/bin/bash
-clear
 
 echo -e "Atualizando as listas do apt"
     apt update
