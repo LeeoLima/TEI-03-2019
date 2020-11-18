@@ -14,5 +14,5 @@ echo -e "Forçando a atualização de segurança"
 
 echo -e "Removendo software desnecessário"
     apt -y autoremove
-    apt -y autoclen
+    apt -y autoclean
     apt clean
